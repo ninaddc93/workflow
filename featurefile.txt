@@ -13,3 +13,4 @@ featureB ()
 //sample code for featureB
 }
 
+//feature file passed with SUCCESS on qa/test branch
