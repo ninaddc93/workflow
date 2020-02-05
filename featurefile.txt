@@ -2,3 +2,8 @@ Feature()
 {
 //base feature file
 }
+
+featureA()
+{
+//sample code for featureA
+}
