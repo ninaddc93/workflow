@@ -7,3 +7,9 @@ featureA()
 {
 //sample code for featureA
 }
+
+featureB ()
+{ 
+//sample code for featureB
+}
+
