@@ -14,3 +14,10 @@ featureB ()
 }
 
 //feature file passed with SUCCESS on qa/test branch
+
+
+bug2()
+{
+//sample code with bug2 fix
+}
+

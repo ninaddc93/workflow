@@ -8,3 +8,7 @@ function1()
 // sample code for updated master file
 }
 
+bug1 ()
+{
+// sample code with bug1 fix
+}
